@@ -5,6 +5,9 @@ the code is based on c++ and opencv
 
 the version of opencv is 4.0
 
+
+![Left](disparity.jpg) | ![Right](stixels.jpg)
+
 ```
 The image data  is  http://www.cvlibs.net/datasets/kitti/eval_stereo.php
 
